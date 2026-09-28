@@ -1,4 +1,4 @@
-# Voice Agent — AI Phone Receptionist
+# Voice Agent - AI Phone Receptionist
 
 An AI voice agent that answers customer phone calls, has a natural conversation, and books appointments directly into Google Calendar. It uses an HVAC company ("Comfort Air HVAC") as a placeholder business.
 
