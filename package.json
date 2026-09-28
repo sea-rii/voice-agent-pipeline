@@ -1,0 +1,18 @@
+{
+  "name": "arklane-voice-agent",
+  "version": "0.1.0",
+  "description": "Arklane real-time voice AI agent (Twilio + Deepgram + GPT-4o + ElevenLabs)",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.18.0",
+    "dotenv": "^16.4.5",
+    "twilio": "^5.3.0",
+    "googleapis": "^144.0.0"
+  }
+}
